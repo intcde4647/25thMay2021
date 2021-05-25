@@ -1,0 +1,4 @@
+    
+interface Bank{  
+        String getBankName();  
+}  
